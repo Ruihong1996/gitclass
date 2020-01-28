@@ -1,2 +1,0 @@
-Ruihong Zhu
-git practice
